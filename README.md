@@ -1,7 +1,9 @@
 # Description
 
 Registration Number : 2017/MIT/024
+
 Index Number : 17550242
+
 Name : Hilmy Farook Mohamed Insaaf
 
 # Project Title : 
@@ -23,8 +25,13 @@ Database Management System: Structured Query Language (SQL)
 # Folder Structure
 
 Admin : Contains all admin functionality related php files.
+
 CareTaker : Contains all caretaker functionality related php files.
+
 Customer : Contains all customer functionality related php files.
+
 Bootstrap : Contains CSS, js and fonts files.
+
 Dist : Contains images and includes files.
+
 Plugins : Contains all external plugins.
